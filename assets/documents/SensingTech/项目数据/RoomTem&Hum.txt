@@ -1,0 +1,1979 @@
+C, Humidity 78.5 % RH
+DHT22 Library Demo
+Requesting data...Polled to quick 
+Requesting data...Got Data 27.40C 78.40%
+Integer-only reading: Temperature 27.4 C, Humidity 78.4 % RH
+Requesting data...Got Data 27.40C 78.40%
+Integer-only reading: Temperature 27.4 C, Humidity 78.4 % RH
+Requesting data...Got Data 27.40C 78.50%
+Integer-only reading: Temperature 27.4 C, Humidity 78.5 % RH
+Requesting data...Got Data 27.40C 78.60%
+Integer-only reading: Temperature 27.4 C, Humidity 78.6 % RH
+Requesting data...Got Data 27.40C 78.60%
+Integer-only reading: Temperature 27.4 C, Humidity 78.6 % RH
+Requesting data...Got Data 27.40C 78.60%
+Integer-only reading: Temperature 27.4 C, Humidity 78.6 % RH
+Requesting data...Got Data 27.40C 78.60%
+Integer-only reading: Temperature 27.4 C, Humidity 78.6 % RH
+Requesting data...Got Data 27.40C 78.60%
+Integer-only reading: Temperature 27.4 C, Humidity 78.6 % RH
+Requesting data...Got Data 27.40C 78.60%
+Integer-only reading: Temperature 27.4 C, Humidity 78.6 % RH
+Requesting data...Got Data 27.40C 78.60%
+Integer-only reading: Temperature 27.4 C, Humidity 78.6 % RH
+Requesting data...Got Data 27.40C 78.60%
+Integer-only reading: Temperature 27.4 C, Humidity 78.6 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.60%
+Integer-only reading: Temperature 27.4 C, Humidity 78.6 % RH
+Requesting data...Got Data 27.40C 78.60%
+Integer-only reading: Temperature 27.4 C, Humidity 78.6 % RH
+Requesting data...Got Data 27.40C 78.60%
+Integer-only reading: Temperature 27.4 C, Humidity 78.6 % RH
+Requesting data...Got Data 27.40C 78.60%
+Integer-only reading: Temperature 27.4 C, Humidity 78.6 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.30C 78.70%
+Integer-only reading: Temperature 27.3 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.30C 78.70%
+Integer-only reading: Temperature 27.3 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.30C 78.70%
+Integer-only reading: Temperature 27.3 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.60%
+Integer-only reading: Temperature 27.4 C, Humidity 78.6 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.60%
+Integer-only reading: Temperature 27.4 C, Humidity 78.6 % RH
+Requesting data...Got Data 27.40C 78.60%
+Integer-only reading: Temperature 27.4 C, Humidity 78.6 % RH
+Requesting data...Got Data 27.40C 78.60%
+Integer-only reading: Temperature 27.4 C, Humidity 78.6 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.60%
+Integer-only reading: Temperature 27.4 C, Humidity 78.6 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.60%
+Integer-only reading: Temperature 27.4 C, Humidity 78.6 % RH
+Requesting data...Got Data 27.40C 78.60%
+Integer-only reading: Temperature 27.4 C, Humidity 78.6 % RH
+Requesting data...Got Data 27.30C 78.60%
+Integer-only reading: Temperature 27.3 C, Humidity 78.6 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.30C 78.70%
+Integer-only reading: Temperature 27.3 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.70%
+Integer-only reading: Temperature 27.4 C, Humidity 78.7 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.80%
+Integer-only reading: Temperature 27.4 C, Humidity 78.8 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 78.90%
+Integer-only reading: Temperature 27.4 C, Humidity 78.9 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.20%
+Integer-only reading: Temperature 27.4 C, Humidity 79.2 % RH
+Requesting data...Got Data 27.40C 79.20%
+Integer-only reading: Temperature 27.4 C, Humidity 79.2 % RH
+Requesting data...Got Data 27.40C 79.20%
+Integer-only reading: Temperature 27.4 C, Humidity 79.2 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.20%
+Integer-only reading: Temperature 27.4 C, Humidity 79.2 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.20%
+Integer-only reading: Temperature 27.4 C, Humidity 79.2 % RH
+Requesting data...Got Data 27.40C 79.20%
+Integer-only reading: Temperature 27.4 C, Humidity 79.2 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.00%
+Integer-only reading: Temperature 27.4 C, Humidity 79.0 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.10%
+Integer-only reading: Temperature 27.4 C, Humidity 79.1 % RH
+Requesting data...Got Data 27.40C 79.20%
+Integer-only reading: Temperature 27.4 C, Humidity 79.2 % RH
+Requesting data...Got Data 27.40C 79.20%
+Integer-only reading: Temperature 27.4 C, Humidity 79.2 % RH
+Requesting data...Got Data 27.40C 79.20%
+Integer-only reading: Temperature 27.4 C, Humidity 79.2 % RH
+Requesting data...Got Data 27.40C 79.20%
+Integer-only reading: Temperature 27.4 C, Humidity 79.2 % RH
+Requesting data...Got Data 27.40C 79.20%
+Integer-only reading: Temperature 27.4 C, Humidity 79.2 % RH
+Requesting data...Got Data 27.40C 79.20%
+Integer-only reading: Temperature 27.4 C, Humidity 79.2 % RH
+Requesting data...Got Data 27.40C 79.20%
+Integer-only reading: Temperature 27.4 C, Humidity 79.2 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.20%
+Integer-only reading: Temperature 27.4 C, Humidity 79.2 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.30%
+Integer-only reading: Temperature 27.4 C, Humidity 79.3 % RH
+Requesting data...Got Data 27.40C 79.40%
+Integer-only reading: Temperature 27.4 C, Humidity 79.4 % RH
+Requesting data...Got Data 27.40C 79.40%
+Integer-only reading: Temperature 27.4 C, Humidity 79.4 % RH
+Requesting data...Got Data 27.40C 79.40%
+Integer-only reading: Temperature 27.4 C, Humidity 79.4 % RH
+Requesting data...Got Data 27.40C 79.40%
+Integer-only reading: Temperature 27.4 C, Humidity 79.4 % RH
+Requesting data...Got Data 27.40C 79.50%
+Integer-only reading: Temperature 27.4 C, Humidity 79.5 % RH
+Requesting data...Got Data 27.40C 79.50%
+Integer-only reading: Temperature 27.4 C, Humidity 79.5 % RH
+Requesting data...Got Data 27.40C 79.50%
+Integer-only reading: Temperature 27.4 C, Humidity 79.5 % RH
+Requesting data...Got Data 27.40C 79.50%
+Integer-only reading: Temperature 27.4 C, Humidity 79.5 % RH
+Requesting data...Got Data 27.40C 79.50%
+Integer-only reading: Temperature 27.4 C, Humidity 79.5 % RH
+Requesting data...Got Data 27.40C 79.50%
+Integer-only reading: Temperature 27.4 C, Humidity 79.5 % RH
+Requesting data...Got Data 27.40C 79.50%
+Integer-only reading: Temperature 27.4 C, Humidity 79.5 % RH
+Requesting data...Got Data 27.40C 79.50%
+Integer-only reading: Temperature 27.4 C, Humidity 79.5 % RH
+Requesting data...Got Data 27.40C 79.50%
+Integer-only reading: Temperature 27.4 C, Humidity 79.5 % RH
+Requesting data...Got Data 27.40C 79.50%
+Integer-only reading: Temperature 27.4 C, Humidity 79.5 % RH
+Requesting data...Got Data 27.40C 79.60%
+Integer-only reading: Temperature 27.4 C, Humidity 79.6 % RH
+Requesting data...Got Data 27.40C 79.60%
+Integer-only reading: Temperature 27.4 C, Humidity 79.6 % RH
+Requesting data...Got Data 27.40C 79.60%
+Integer-only reading: Temperature 27.4 C, Humidity 79.6 % RH
+Requesting data...Got Data 27.40C 79.60%
+Integer-only reading: Temperature 27.4 C, Humidity 79.6 % RH
+Requesting data...Got Data 27.40C 79.60%
+Integer-only reading: Temperature 27.4 C, Humidity 79.6 % RH
+Requesting data...Got Data 27.40C 79.60%
+Integer-only reading: Temperature 27.4 C, Humidity 79.6 % RH
+Requesting data...Got Data 27.40C 79.60%
+Integer-only reading: Temperature 27.4 C, Humidity 79.6 % RH
+Requesting data...Got Data 27.40C 79.60%
+Integer-only reading: Temperature 27.4 C, Humidity 79.6 % RH
+Requesting data...Got Data 27.40C 79.60%
+Integer-only reading: Temperature 27.4 C, Humidity 79.6 % RH
+Requesting data...Got Data 27.40C 79.60%
+Integer-only reading: Temperature 27.4 C, Humidity 79.6 % RH
+Requesting data...Got Data 27.40C 79.60%
+Integer-only reading: Temperature 27.4 C, Humidity 79.6 % RH
+Requesting data...Got Data 27.40C 79.60%
+Integer-only reading: Temperature 27.4 C, Humidity 79.6 % RH
+Requesting data...Got Data 27.40C 79.60%
+Integer-only reading: Temperature 27.4 C, Humidity 79.6 % RH
+Requesting data...Got Data 27.40C 79.60%
+Integer-only reading: Temperature 27.4 C, Humidity 79.6 % RH
+Requesting data...Got Data 27.40C 79.60%
+Integer-only reading: Temperature 27.4 C, Humidity 79.6 % RH
+Requesting data...Got Data 27.40C 79.60%
+Integer-only reading: Temperature 27.4 C, Humidity 79.6 % RH
+Requesting data...Got Data 27.40C 79.60%
+Integer-only reading: Temperature 27.4 C, Humidity 79.6 % RH
+Requesting data...Got Data 27.40C 79.60%
+Integer-only reading: Temperature 27.4 C, Humidity 79.6 % RH
+Requesting data...Got Data 27.40C 79.70%
+Integer-only reading: Temperature 27.4 C, Humidity 79.7 % RH
+Requesting data...Got Data 27.40C 79.70%
+Integer-only reading: Temperature 27.4 C, Humidity 79.7 % RH
+Requesting data...Got Data 27.40C 79.70%
+Integer-only reading: Temperature 27.4 C, Humidity 79.7 % RH
+Requesting data...Got Data 27.40C 79.70%
+Integer-only reading: Temperature 27.4 C, Humidity 79.7 % RH
+Requesting data...Got Data 27.40C 79.70%
+Integer-only reading: Temperature 27.4 C, Humidity 79.7 % RH
+Requesting data...Got Data 27.40C 79.70%
+Integer-only reading: Temperature 27.4 C, Humidity 79.7 % RH
+Requesting data...Got Data 27.40C 79.80%
+Integer-only reading: Temperature 27.4 C, Humidity 79.8 % RH
+Requesting data...Got Data 27.40C 79.70%
+Integer-only reading: Temperature 27.4 C, Humidity 79.7 % RH
+Requesting data...Got Data 27.40C 79.80%
+Integer-only reading: Temperature 27.4 C, Humidity 79.8 % RH
+Requesting data...Got Data 27.40C 79.80%
+Integer-only reading: Temperature 27.4 C, Humidity 79.8 % RH
+Requesting data...Got Data 27.40C 79.80%
+Integer-only reading: Temperature 27.4 C, Humidity 79.8 % RH
+Requesting data...Got Data 27.40C 79.70%
+Integer-only reading: Temperature 27.4 C, Humidity 79.7 % RH
+Requesting data...Got Data 27.40C 79.70%
+Integer-only reading: Temperature 27.4 C, Humidity 79.7 % RH
+Requesting data...Got Data 27.40C 79.80%
+Integer-only reading: Temperature 27.4 C, Humidity 79.8 % RH
+Requesting data...Got Data 27.40C 79.80%
+Integer-only reading: Temperature 27.4 C, Humidity 79.8 % RH
+Requesting data...Got Data 27.40C 79.80%
+Integer-only reading: Temperature 27.4 C, Humidity 79.8 % RH
+Requesting data...Got Data 27.40C 79.80%
+Integer-only reading: Temperature 27.4 C, Humidity 79.8 % RH
+Requesting data...Got Data 27.40C 79.80%
+Integer-only reading: Temperature 27.4 C, Humidity 79.8 % RH
+Requesting data...Got Data 27.40C 79.90%
+Integer-only reading: Temperature 27.4 C, Humidity 79.9 % RH
+Requesting data...Got Data 27.40C 79.90%
+Integer-only reading: Temperature 27.4 C, Humidity 79.9 % RH
+Requesting data...Got Data 27.40C 79.90%
+Integer-only reading: Temperature 27.4 C, Humidity 79.9 % RH
+Requesting data...Got Data 27.40C 79.90%
+Integer-only reading: Temperature 27.4 C, Humidity 79.9 % RH
+Requesting data...Got Data 27.40C 79.90%
+Integer-only reading: Temperature 27.4 C, Humidity 79.9 % RH
+Requesting data...Got Data 27.40C 79.90%
+Integer-only reading: Temperature 27.4 C, Humidity 79.9 % RH
+Requesting data...Got Data 27.40C 79.90%
+Integer-only reading: Temperature 27.4 C, Humidity 79.9 % RH
+Requesting data...Got Data 27.40C 79.90%
+Integer-only reading: Temperature 27.4 C, Humidity 79.9 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 79.90%
+Integer-only reading: Temperature 27.4 C, Humidity 79.9 % RH
+Requesting data...Got Data 27.40C 79.90%
+Integer-only reading: Temperature 27.4 C, Humidity 79.9 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 79.90%
+Integer-only reading: Temperature 27.4 C, Humidity 79.9 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 79.90%
+Integer-only reading: Temperature 27.4 C, Humidity 79.9 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.30C 79.90%
+Integer-only reading: Temperature 27.3 C, Humidity 79.9 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.30C 80.10%
+Integer-only reading: Temperature 27.3 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.30C 79.90%
+Integer-only reading: Temperature 27.3 C, Humidity 79.9 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.00%
+Integer-only reading: Temperature 27.4 C, Humidity 80.0 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.30C 80.10%
+Integer-only reading: Temperature 27.3 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.30%
+Integer-only reading: Temperature 27.4 C, Humidity 80.3 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.30%
+Integer-only reading: Temperature 27.4 C, Humidity 80.3 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.30%
+Integer-only reading: Temperature 27.4 C, Humidity 80.3 % RH
+Requesting data...Got Data 27.40C 80.30%
+Integer-only reading: Temperature 27.4 C, Humidity 80.3 % RH
+Requesting data...Got Data 27.40C 80.30%
+Integer-only reading: Temperature 27.4 C, Humidity 80.3 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.30C 80.10%
+Integer-only reading: Temperature 27.3 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.10%
+Integer-only reading: Temperature 27.4 C, Humidity 80.1 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
+Requesting data...Got Data 27.40C 80.20%
+Integer-only reading: Temperature 27.4 C, Humidity 80.2 % RH
